@@ -1,4 +1,4 @@
-# Windows Chinese font replacement
+# Chinese font replacement for Windows
 
 ## Preview
 
